@@ -42,7 +42,7 @@ int main()
 		for(int j=0;j<N;j++)
 		{
 			edge[i][j]=0;
-		}
+		}g 
 	}
 	for(int i=0;i<E;i++)
 	{
